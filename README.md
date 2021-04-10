@@ -52,5 +52,3 @@ Kaggle
     <a href="https://anaconda.org/" target="_blank"> <img src="https://www.clipartkey.com/mpngs/m/227-2271689_transparent-anaconda-logo-png.png" alt="Anaconda" width="40" height="40"/> </a> 
     <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> </a> 
 </p>
-
-https://lucid.app/lucidchart/invitations/accept/inv_7c9631d1-6cbe-4d2e-9e0a-b06d7d4446e6?viewport_loc=312%2C-436%2C4468%2C2364%2Ci5Grrm1UZc-T
