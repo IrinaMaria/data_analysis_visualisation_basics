@@ -32,17 +32,17 @@ Kaggle
 
 <h3 align="left">Libraries and packages:</h3>
 <p align="left"> 
-    <a href="https://pandas.pydata.org/docs/user_guide/index.html#user-guide" target="_blank"> <img src="icons/pandas.png" alt="Windows 10" width="60" height="60"/> </a>
-    <a href="https://numpy.org/doc/stable/" target="_blank"> <img src="icons/numpy.png" alt="Windows 10" width="60" height="60"/> </a>
-      <a href="https://matplotlib.org/stable/contents.html" target="_blank"> <img src="icons/matplotlib.svg" alt="Windows 10" width="60" height="60"/> </a>
-    <a href="https://seaborn.pydata.org/" target="_blank"> <img src="icons/seaborn.svg" alt="Windows 10" width="60" height="60"/> </a>
+    <a href="https://pandas.pydata.org/docs/user_guide/index.html#user-guide" target="_blank"> <img src="icons/pandas.png" alt="Pandas" width="70" height="40"/> </a>
+    <a href="https://numpy.org/doc/stable/" target="_blank"> <img src="icons/numpy.png" alt="NumPy" width="80" height="40"/> </a>
+    <a href="https://matplotlib.org/stable/contents.html" target="_blank"> <img src="icons/matplotlib.svg" alt="Matplotlib" width="60" height="60"/> </a>
+    <a href="https://seaborn.pydata.org/" target="_blank"> <img src="icons/seaborn.svg" alt="Seaborn" width="60" height="60"/> </a>
     
 </p>
  
  
 <h3 align="left">System:</h3>
 <p align="left"> 
-    <a href="https://www.microsoft.com/en-us/windows/get-windows-10" target="_blank"> <img src="https://www.pngkit.com/png/detail/19-194579_upgrade-gobierno-open-business-logo-windows-10-home.png" alt="Windows 10" width="60" height="60"/> </a>
+    <a href="https://www.microsoft.com/en-us/windows/get-windows-10" target="_blank"> <img src="https://www.pngkit.com/png/detail/19-194579_upgrade-gobierno-open-business-logo-windows-10-home.png" alt="Windows 10" width="50" height="50"/> </a>
 </p>
 
 
